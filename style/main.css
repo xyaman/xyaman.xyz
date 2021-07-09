@@ -1,0 +1,40 @@
+body {
+	background-color: #CBC1A4;
+	height: 100%;
+}
+
+.avatar {
+	border-radius: 50%;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 60%;
+}
+
+.text-block {
+	margin-left: 2em;
+	margin-right: 2em;
+	justify-content: center;
+  	align-items: center;
+  	width: 100%;
+}
+
+.socials-container {
+	display: block;
+	justify-content: center;
+	align-items: center;
+	margin: 0 auto;
+	width: 100%;
+	text-align: center;
+}
+
+.socials-container a {
+	margin-left: 0.4em;
+	margin-right: 0.4em;
+	color: inherit;
+	text-decoration: none;
+}
+
+.social-icon {
+	max-height: 16px;
+}
